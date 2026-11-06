@@ -3,6 +3,17 @@
 ## 📌 Project Overview
 An end-to-end data engineering and analytics project investigating global technology layoffs and the relationship between AI adoption and workforce reductions. This project demonstrates the complete data lifecycle: from raw data ingestion to a cloud-based data warehouse and interactive business intelligence reporting.
 
+## 📸 Dashboard Screenshots
+
+### 1. Executive Summary
+![Executive Summary](Executive%20Summary.png)
+
+### 2. Geography & Industry
+![Geography and Industry](Geography%20and%20Industry.png)
+
+### 3. AI Impact Deep Dive
+![AI Impact](AI%20Impact.png)
+
 ## 🏗️ Architecture & Pipeline
 1. **Data Ingestion:** Combined 3 distinct raw datasets (OWID Layoffs, AI Layoffs Tracker, AI Layoffs Register).
 2. **ETL (Python):** Cleaned, standardized, and deduplicated records using `pandas`.
